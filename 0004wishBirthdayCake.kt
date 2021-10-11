@@ -6,24 +6,24 @@ fun main() {
     printCakeBottom(age, layers)
 }
 
-fun printCakeTop(age: Int) {
-    repeat(age + 2) {
-        print("=")
-    }
-    println()
-}
-
 fun printCakeCandles(age: Int) {
-    print(" ")
+    print (" ")
     repeat(age) {
-        print(",")
+          print(",")
     }    
-    println() // Print an empty line   
- 
+    println() // Print an empty line
+
     print(" ") // Print the inset of the candles on the cake
     repeat(age) {
         print("|")
     }    
+    println()
+}
+
+fun printCakeTop(age: Int) {
+    repeat(age + 2) {
+        print("=")
+    }
     println()
 }
 

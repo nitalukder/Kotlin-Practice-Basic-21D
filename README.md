@@ -24,3 +24,6 @@ My Kotlin Practice Files. Through my app development journey.
 ## Useful Links
 * [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
 * [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
+* [Vocabulary for Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab)
+* [Basic Syntax](https://kotlinlang.org/docs/basic-syntax.html)
+* ["repeat" Statement](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html)

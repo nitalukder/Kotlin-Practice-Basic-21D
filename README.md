@@ -15,6 +15,9 @@ My Kotlin Practice Files. Through my app development journey.
 * After the fun keyword follows the name of the function, parentheses for optional input to the function (arguments), and curly braces.
 * Your code for printing text always went inside those curly braces.
 
+### Loop
+* A loop is an instruction to repeat instructions multiple times.
+
 ### Refactoring
 * changing the code to make it better or easier to work with without changing the output is called "refactoring".
 

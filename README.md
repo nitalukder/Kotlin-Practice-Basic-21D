@@ -3,6 +3,18 @@ My Kotlin Practice Files. Through my app development journey.
 
 ## Useful Lines
 
+### Class
+#### / Hierarchy
+* An arrangement where classes are organized in a hierarchy of parents and children. Hierarchy diagrams are usually drawn with the parents shown above children.
+#### / Child or Subclass
+* Any class that is below another class in the hierarchy.
+#### / Parent or Superclass or Base class
+* Any class with one or more child classes.
+#### / Root or Top-Level Class
+* The class at the top (or root) of the class hierarchy.
+#### / Inheritance
+* When a child class includes (or inherits) all the properties and methods of its parent class. This allows you to share and reuse code, which makes programs easier to understand and maintain.
+
 ### Coding Convention
 * Naming functions like this is a "coding convention".
 * an agreement among developers about how to format code.
